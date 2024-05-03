@@ -100,6 +100,7 @@ a{
     color: white;
     transition: background 0.5s;
     display: block;
+    font-size: 14px;
 }
 
 .blocoartigo:hover{
