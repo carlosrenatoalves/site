@@ -1,9 +1,16 @@
 
 
+.dosis-<uniquifier> {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
 .oswald-<uniquifier> {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
-  font-weight:16px;
+  font-weight:200;
   font-style: normal;
 }
   
