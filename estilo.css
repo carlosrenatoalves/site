@@ -144,7 +144,7 @@ footer{
 .lnome{
     width: 400px;
     height: 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: rgb(240, 248, 255);
     box-shadow: 2px 2px 5px white;
 }
