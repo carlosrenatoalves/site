@@ -89,10 +89,7 @@ a{
     display: flex;
     justify-content: space-between;   
     text-align: justify; 
-    font-family:Verdana, sans-serif;
-    flex-wrap: wrap;
-    
-    
+    font-family:Verdana, sans-serif;  
 }
 
 .blocoartigo{
